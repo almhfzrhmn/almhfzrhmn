@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Roman
 
 🎓 **INFORMATICS USK**  
-💻 **stuck in inconsistency**
+💻 **stuck in inconsistency**\n
     **Vibe Coder**
  Interested in **Web Development & AI / Machine Learning and Mobile Development**
 
