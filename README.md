@@ -1,15 +1,14 @@
 # Hi there 👋, I'm Roman
 
 🎓 **INFORMATICS USK**  
-💻 **always stuck in inconsistency**  
-🤖 Interested in **Web Development & AI / Machine Learning and Mobile Development**
+💻 **stuck in inconsistency**
+**Vibe Coder**
+ Interested in **Web Development & AI / Machine Learning and Mobile Development**
 
 ---
 
 ## 🚀 About Me
-- 🎯 Currently focusing on **Web Development**
-- 📚 Learning **JavaScript, React, Node.js, MongoDB**
-- 🤖 Exploring **AI & Machine Learning** alongside my studies
+- 🎯 Currently focusing on **Web Development & Mobile Dev**
 
 ---
 
