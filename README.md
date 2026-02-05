@@ -2,7 +2,7 @@
 
 🎓 **INFORMATICS USK**  
 💻 **stuck in inconsistency**
-**Vibe Coder**
+    **Vibe Coder**
  Interested in **Web Development & AI / Machine Learning and Mobile Development**
 
 ---
