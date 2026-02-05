@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Roman
 
 🎓 **INFORMATICS USK**  
-💻 **stuck in inconsistency**\n
-    **Vibe Coder**
- Interested in **Web Development & AI / Machine Learning and Mobile Development**
+= 💻 **stuck in inconsistency**
+    - **Vibe Coder**
+ - Interested in **Web Development & AI / Machine Learning and Mobile Development**
 
 ---
 
