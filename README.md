@@ -11,14 +11,3 @@ Hi, I'm Al-Mahfuzh Fadhlur Rohman<br>Informatics | Syiah Kuala University<br>Cur
 ![](https://github-readme-stats.shion.dev/api?username=almhfzrhmn&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=almhfzrhmn&theme=transparent&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=almhfzrhmn&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=almhfzrhmn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
----
-[![](https://komarev.com/ghpvc/?username=almhfzrhmn&icon=8&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
